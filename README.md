@@ -2,7 +2,7 @@
 
 Just playing with Redux...using React with purely Functional Components.
 
-Find below the features I'm experimenting with inside the app, and how I brief explanations on how I'm mixing redux state and local state.
+Find below the features I'm experimenting with inside the app, and my brief explanations on how I'm mixing redux state and local state.
 
 ### 1. Account Balance
 This dude here is totally managed by redux. I'm also balanceReducer to exlusively manage this.
